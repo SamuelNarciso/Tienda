@@ -1,2 +1,3 @@
 # Tienda
-Sw creado en la preparatoria de una sistema de tienda con su respectiva base de datos 
+##Sw de pruebas para una tienda
+aun no se ha terminado. 
